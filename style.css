@@ -1,0 +1,27 @@
+div{
+  min-height: 100px;
+  min-width: 100px;
+    border: solid 1px black;
+}
+.huber{
+  background: red;
+}
+div.huber{
+  background: yellow;
+}
+.meier{
+  background: blue;
+}
+#lisa{
+  background: green;
+}
+#sepp{
+  background: #333;
+}
+div.huber{
+  background: brown;
+}
+.schulze, #sepp.schulze{
+  background: violet;
+
+}
